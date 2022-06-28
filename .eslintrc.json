@@ -1,0 +1,28 @@
+{
+  "env": {
+    "es2020": true
+  },
+  "extends": "trybe-fundamentals",
+  "rules": {
+    "max-lines": "off",
+    "max-params": "off",
+    "linebreak-style": "off",
+    "no-unused-vars": [
+      "error",
+      {
+        "args": "none",
+        "vars": "local",
+        "varsIgnorePattern": "data|getOpeningHours|handlerElephants"
+      }
+    ]
+  },
+  "overrides": [
+    {
+      "files": ["test/*.js"],
+      "rules": {
+        "max-lines-per-function": ["off"],
+        "max-len": ["off"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "block8-project-zoo-functions",
+  "version": "1.0.0",
+  "description": "Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage test/*",
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "jest": {
+    "coverageReporters": [
+      "text",
+      "html"
+    ],
+    "collectCoverageFrom": [
+      "**/src/handlerElephants.js",
+      "**/src/getOpeningHours.js"
+    ],
+    "testMatch": [
+      "**/test/**/*.test.js?(x)",
+      "**/evaluator/**/*.test.js?(x)"
+    ],
+    "testTimeout": 30000
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betrybe/sd-03-block9-project-zoo-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betrybe/sd-03-block9-project-zoo-functions/issues"
+  },
+  "homepage": "https://github.com/betrybe/sd-03-block9-project-zoo-functions#readme",
+  "devDependencies": {
+    "eslint-config-trybe-fundamentals": "1.1.0",
+    "faker": "5.5.3",
+    "jest": "25.2.3"
+  }
+}
