@@ -1,6 +1,9 @@
 const handlerElephants = require('../src/handlerElephants');
 
 describe('Testes da função HandlerElephants', () => {
+  it('Verifica se é uma função', () => {
+    expect(typeof handlerElephants).toBe('function');
+  });
   it('Caso a função não receba um parametro deve retornar undefined', () => {
     expect(handlerElephants()).toBe(undefined);
   });
@@ -27,5 +30,21 @@ describe('Testes da função HandlerElephants', () => {
   });
   it('Caso receba o parametro "name", retorna o nome', () => {
     expect(handlerElephants('name')).toEqual('elephants');
+  });
+  it('Caso receba o parametro "residents", retorna os residentes', () => {
+    const expected = [
+      { age: 11, name: 'Ilana', sex: 'female' },
+      { age: 15, name: 'Orval', sex: 'male' },
+      { age: 12, name: 'Bea', sex: 'female' },
+      { age: 4, name: 'Jefferson', sex: 'male' },
+    ];
+    expect(handlerElephants('residents')).toEqual(expected);
+  });
+  it('Caso receba o parametro "id", retorna o id', () => {
+    const elephantsId = 'bb2a76d8-5fe3-4d03-84b7-dba9cfc048b5';
+    expect(handlerElephants('id')).toEqual(elephantsId);
+  });
+  it('Caso receba um parametro não relacionado, retorna null', () => {
+    expect(handlerElephants('xablau')).toBe(null);
   });
 });
