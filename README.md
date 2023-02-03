@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # :construction: README customizado em construção ! :construction:
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
@@ -11,3 +12,9 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
+
+## Sobre o Projeto
+
+projeto que realizei na  Trybe no período de fundamentos do desemvovimento web, esse projeto tinha como objetivo desenvolver funções que buscam informações sobre os animais do zoológico como: espécie e local de origem e também sobre as pessoas que colaboram com a manutenção e cuidado do zoológico.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
