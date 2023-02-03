@@ -17,11 +17,16 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 
 projeto que realizei na  Trybe no período de fundamentos do desemvovimento web, esse projeto tinha como objetivo desenvolver funções que buscam informações sobre os animais do zoológico como: espécie e local de origem e também sobre as pessoas que colaboram com a manutenção e cuidado do zoológico.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+## Construído com
+  * javaScript
+  
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ## Começando
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ## Uso
 
@@ -77,7 +82,7 @@ projeto que realizei na  Trybe no período de fundamentos do desemvovimento web,
   <summary>handlerElephants</summary>
 </details>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ## Contato
 
@@ -85,4 +90,4 @@ Renan Fernandes - [orenanfernandes](https://www.linkedin.com/in/renan-fernandes-
 
 <!-- Project Link: [trybe-project-zoo-functions](https://github.com/RenanFernandess/trybe-project-zoo-functions) -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
