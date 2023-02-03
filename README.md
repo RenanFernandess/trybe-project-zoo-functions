@@ -19,6 +19,10 @@ projeto que realizei na  Trybe no período de fundamentos do desemvovimento web,
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Começando
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Uso
 
 <details>
