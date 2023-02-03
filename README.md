@@ -18,3 +18,11 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 projeto que realizei na  Trybe no período de fundamentos do desemvovimento web, esse projeto tinha como objetivo desenvolver funções que buscam informações sobre os animais do zoológico como: espécie e local de origem e também sobre as pessoas que colaboram com a manutenção e cuidado do zoológico.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contato
+
+Renan Fernandes - [orenanfernandes](https://www.linkedin.com/in/renan-fernandes-0aa437238/) - renzinestuods@gmail.com
+
+<!-- Project Link: [trybe-project-zoo-functions](https://github.com/RenanFernandess/trybe-project-zoo-functions) -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
