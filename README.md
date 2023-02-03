@@ -19,6 +19,62 @@ projeto que realizei na  Trybe no período de fundamentos do desemvovimento web,
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Uso
+
+<details>
+  <summary>calculateEntry</summary>
+</details>
+
+<details>
+  <summary>countAnimals</summary>
+</details>
+
+<details>
+  <summary>getAnimalMap</summary>
+</details>
+
+<details>
+  <summary>getAnimalsOlderThan</summary>
+</details>
+
+<details>
+  <summary>getEmployeeByName</summary>
+</details>
+
+<details>
+  <summary>getEmployeesCoverage</summary>
+</details>
+
+<details>
+  <summary>getOldestFromFirstSpecies</summary>
+</details>
+
+<details>
+  <summary>getOpeningHours</summary>
+</details>
+
+<details>
+  <summary>getRelatedEmployees</summary>
+</details>
+
+<details>
+  <summary>getSchedule</summary>
+</details>
+
+<details>
+  <summary>getSchedule</summary>
+</details>
+
+<details>
+  <summary>getSpeciesByIds</summary>
+</details>
+
+<details>
+  <summary>handlerElephants</summary>
+</details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Contato
 
 Renan Fernandes - [orenanfernandes](https://www.linkedin.com/in/renan-fernandes-0aa437238/) - renzinestuods@gmail.com
