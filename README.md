@@ -91,3 +91,8 @@ Renan Fernandes - [orenanfernandes](https://www.linkedin.com/in/renan-fernandes-
 <!-- Project Link: [trybe-project-zoo-functions](https://github.com/RenanFernandess/trybe-project-zoo-functions) -->
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+## Agradecimentos
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
