@@ -86,7 +86,7 @@ projeto que realizei na  Trybe no período de fundamentos do desemvovimento web,
 
 ## Contato
 
-* Renan Fernandes - [orenanfernandes](https://www.linkedin.com/in/renan-fernandes-0aa437238/) - renzinestuods@gmail.com
+* Renan Fernandes - [linkedin](https://www.linkedin.com/in/renan-fernandes-0aa437238/) - renzinestuods@gmail.com
 
 <!-- Project Link: [trybe-project-zoo-functions](https://github.com/RenanFernandess/trybe-project-zoo-functions) -->
 
