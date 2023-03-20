@@ -20,7 +20,7 @@ projeto que realizei na  Trybe no período de fundamentos do desemvovimento web,
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ## Construído com
-  * javaScript
+  * [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
